@@ -59,15 +59,12 @@ These rules are a subset of the entire rule set for XGC and are specifically foc
    - By using XGC's Bots in the context of Raid Battles and Trade bots, you agree to these terms.
 
 
-
-**Note:** These rules are effective immediately and are subject to change. It is...
-```
 **Sportsmanlike Conduct:**
-   - XGC does not condone the use of unfair sportsmanlike conduct. We explicitly discourage the use of any Pokémon obtained from our bots, specifically trade bots, in official tournaments or in environments where opponents are not aware of and do not have access to the same conditions.
+>   - XGC does not condone the use of unfair sportsmanlike conduct. We explicitly discourage the use of any Pokémon obtained from our bots, specifically trade bots, in official tournaments or in environments where opponents are not aware of and do not have access to the same conditions.
 **Official Position on The Pokémon Company's Practices:**
-   - XGC strongly disagrees with The Pokémon Company's current practices. We believe that anyone with the entry fee should be able to enter a tournament and compete on equal grounds. This principle is no different from other competitive gaming scenes, such as Call of Duty or Halo. In our opinion, The Pokémon Company should consider creating a Pokémon-style Showdown App for generating Pokémon exclusively for tournament use. These Pokémon would be deleted afterward, or other similar possibilities could be explored. This would ensure a level playing field for all participants, similar to other competitive gaming environments. However, this position does not negate the fact that using Pokémon obtained through trade bots, including ours, is a violation of tournament rules, and we do not support such practices. We advocate for boycotting the Pokémon Pro Scene and encourage efforts to bring about a Pokémon Showdown-like Pro Scene.
+>   - XGC strongly disagrees with The Pokémon Company's current practices. We believe that anyone with the entry fee should be able to enter a tournament and compete on equal grounds. This principle is no different from other competitive gaming scenes, such as Call of Duty or Halo. In our opinion, The Pokémon Company should consider creating a Pokémon-style Showdown App for generating Pokémon exclusively for tournament use. These Pokémon would be deleted afterward, or other similar possibilities could be explored. This would ensure a level playing field for all participants, similar to other competitive gaming environments. However, this position does not negate the fact that using Pokémon obtained through trade bots, including ours, is a violation of tournament rules, and we do not support such practices. We advocate for boycotting the Pokémon Pro Scene and encourage efforts to bring about a Pokémon Showdown-like Pro Scene.
 
-...
- the user's responsibility to review them periodically.
+
+**Note:** These rules are effective immediately and are subject to change. It is the user's responsibility to review them periodically.
 
 Thank you for using XGC's Bots!
