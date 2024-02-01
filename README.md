@@ -68,3 +68,14 @@ These rules are a subset of the entire rule set for XGC and are specifically foc
 **Note:** These rules are effective immediately and are subject to change. It is the user's responsibility to review them periodically.
 
 Thank you for using XGC's Bots!
+
+
+...
+
+**XGC's Social Media:**
+   - Discord Server: [XGC Discord Server](https://discord.gg/xieon)
+   - [Twitter](https://twitter.com/xieon)
+   - [Instagram](https://www.instagram.com/xieonsgamingcorner/)
+   - [YouTube](https://www.youtube.com/channel/UCa2tx2V6Izhq-XA6uPyKoEw)
+
+...
