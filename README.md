@@ -48,7 +48,7 @@ These rules are a subset of the entire rule set for XGC and are specifically foc
    - XGC is not responsible for any damages or losses resulting from the use of XGC's Bots.
 
 **10. Contact:**
-   - For support or inquiries, contact Xieon (Dave) at [Your Contact Information].
+   - For support or inquiries, contact Xieon (Dave) on Discord at <@745733120510394466> or join the official XGC's Bots server at [XGC Discord Server](https://discord.gg/xieon).
 
 **11. Agreement:**
    - By using XGC's Bots in the context of Raid Battles and Trade bots, you agree to these terms.
