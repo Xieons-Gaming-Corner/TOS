@@ -65,4 +65,21 @@ These rules are a subset of the entire rule set for XGC and are specifically foc
 - You need to be at least 13 to subscribe to the server, subscribe to XGC's Twitch @ [twitch.tv/xieon](https://twitch.tv/xieon), or YouTube @ [youtube.com/xieongaming](https://youtube.com/xieongaming).
 - Additionally, XGC offers material that is only suitable for audiences 18+. This content is collectively known as "XGC After Dark" and is the umbrella term for all 18+ content, NSFW content, sexualized content, controversial content, and topics such as mental health, self-harm, suicide, drugs, sexual abuse, and many other topics that some users may find to be triggering.
 
-**Thank you for using XGC's Bots!**
+## Sportsmanship / Fairplay / XGC & TPC Tournaments 
+Participation in Official Pokémon Company Tournaments:
+We highly discourage and do not endorse the use of ANY of our Pokémon in Official "The Pokémon Company" (TPC) tournaments or competitions. This includes but is not limited to events with prize pools, whether they involve cash or merchandise rewards.
+Our Stance on TPC Tournaments:
+* While we acknowledge that some members of our community may wish to participate in TPC-sanctioned events, we want to make it clear that XGC does not support or condone the use of our Pokémon in these tournaments. Our stance stems from a fundamental disagreement with TPC's tournament practices and policies.
+
+**Respecting Tournament Rules:**
+* XGC was founded by Xieon, a former Gaming Tournament Director, who understands the importance of adhering to tournament rules and regulations. Cheating or using unauthorized Pokémon undermines the integrity of competitive play and does not effectively address our concerns with TPC's practices.
+
+**Voicing Displeasure Responsibly:**
+* While we may disagree with TPC's approach, we believe in advocating for change through constructive means. Rather than resorting to cheating, we encourage our community to voice their concerns through channels such as feedback submissions, community discussions, and social media engagement.
+
+**Use of Third-Party Devices in XGC Official Events:**
+* It is a defacto rule that Pokémon obtained through the assistance of third-party devices are always allowed to be used within XGC Official events. However, this allowance is strictly for our server, as we have the capability of generating any Pokémon for all players, ensuring an even playing field.
+
+## **Thank you for understanding our stance on TPC tournaments and for supporting our commitment to fair play and advocacy within the Pokémon community.**
+
+**Thank you for using XGC's Bots & Being a Member of the Xieon's Gaming Corner Community <3 **
