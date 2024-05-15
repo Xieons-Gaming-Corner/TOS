@@ -8,6 +8,8 @@
 - **"Sus Spore":** Refers to either a bot on a specific platform such as Twitch or Discord that has the name "Sus Spore" or the IGN for the Bot's Character In-Game.
 - **"Aizen Suske":** {Same as "Sus Spore."}
 - **XGC's Bots:** The bots owned and operated by Xieons Gaming Corner (XGC).
+- **XGC**: Xieon's Gaming Corner - (XGC) is used for shothand to denoate the entirety of the XGC Ecosystem (Twitch, Youtube, Discord, etc) 
+
 
 ## Scope:
 These rules are a subset of the entire rule set for XGC and are specifically focused on Raid Battles and Trade bots. This does not negate the application of other XGC rules, which remain in effect.
