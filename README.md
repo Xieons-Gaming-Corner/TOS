@@ -1,6 +1,6 @@
-# Terms of Service for XGC Discord Bots
+# XGC Discord Bots Terms of Service
 
-**Effective Date: Effective immediately**
+**Effective Date:** Effective immediately
 
 ## Definitions:
 - **Discord:** The peer-to-peer communication application common among gamers.
@@ -9,73 +9,58 @@
 - **"Aizen Suske":** {Same as "Sus Spore."}
 - **XGC's Bots:** The bots owned and operated by Xieons Gaming Corner (XGC).
 
-**Scope:**
+## Scope:
 These rules are a subset of the entire rule set for XGC and are specifically focused on Raid Battles and Trade bots. This does not negate the application of other XGC rules, which remain in effect.
 
-**1. User Conduct:**
-   - Users must adhere to Discord's Terms of Service (https://discord.com/terms) and Community Guidelines (https://discord.com/guidelines).
-   - Do not engage in any activity that violates local, state, national, or international laws.
+## 1. User Conduct:
+- Users must adhere to Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
+- Do not engage in any activity that violates local, state, national, or international laws.
 
-**2. Proper Usage:**
-   - Use XGC's Bots only for their intended purpose and features related to Raid Battles and Trade bots.
-   - Do not attempt to exploit, hack, or disrupt XGC's Bots or the XGC community.
+## 2. Proper Usage:
+- Use XGC's Bots only for their intended purpose and features related to Raid Battles and Trade bots.
+- Do not attempt to exploit, hack, or disrupt XGC's Bots or the XGC community.
 
-**3. Privacy:**
-   - Respect the privacy of other users.
-   - Do not share personal information without explicit consent.
+## 3. Privacy:
+- Respect the privacy of other users.
+- Do not share personal information without explicit consent.
 
-**4. Content:**
-   - Users are responsible for the content they generate using XGC's Bots in the context of Raid Battles and Trade bots.
-   - Do not use XGC's Bots to share inappropriate, offensive, or illegal content.
+## 4. Content:
+- Users are responsible for the content they generate using XGC's Bots in the context of Raid Battles and Trade bots.
+- Do not use XGC's Bots to share inappropriate, offensive, or illegal content.
 
-**5. Moderation:**
-   - XGC reserves the right to moderate, suspend, or ban users for violating these terms.
-   - XGC Staff is not obligated, nor will they reveal their methods of detecting or banning/punishing suspicious accounts and users.
+## 5. Moderation:
+- XGC reserves the right to moderate, suspend, or ban users for violating these terms.
+- XGC Staff is not obligated to reveal their methods of detecting or banning/punishing suspicious accounts and users.
 
-**6. Appeals Process:**
-   - Users may escalate an appeal up the chain of command within XGC Staff.
-   - Ultimately, in the moment, XGC Staff's word is law.
+## 6. Appeals Process:
+- Users may escalate an appeal up the chain of command within XGC Staff.
+- Ultimately, in the moment, XGC Staff's word is law.
 
-**7. Raids:**
-   - XGC always does its best to protect its users from any harms, including with running raids.
-   - All raids are conducted through seed injection, using naturally occurring seeds within the game, forced on demand.
+## 7. Raids:
+- XGC always does its best to protect its users from any harms, including with running raids.
+- All raids are conducted through seed injection, using naturally occurring seeds within the game, forced on demand.
+### Specific Rules for Raids:
+1. Joining the Raid Lobby and backing out is a violation. Punishments may vary, and can include suspensions of up to 48 hours.
+2. Joining the raid with the intent to troll or throw the raid will result in a ban.
+3. Joining the raid with Pokémon that have .com or advertising nicknames, or their trainers' names presented in that manner, will result in a permanent ban.
 
-   **Specific Rules for Raids:**
-   - Joining the Raid Lobby and backing out is a violation. Punishments may vary, and can include suspensions of up to 48 hours.
-   - Joining the raid with the intent to troll or throw the raid will result in a ban.
-   - Joining the raid with Pokémon that have .com or advertising nicknames, or their trainers' names presented in that manner, will result in a permanent ban.
+## 8. Changes to XGC's Bots or TOS:
+- XGC reserves the right to modify or discontinue XGC's Bots or these terms at any time.
 
-**8. Changes to XGC's Bots or TOS:**
-   - XGC reserves the right to modify or discontinue XGC's Bots or these terms at any time.
+## 9. Disclaimer:
+- XGC's Bots are provided "as is" without any warranties, expressed or implied.
+- XGC is not responsible for any damages or losses resulting from the use of XGC's Bots.
 
-**9. Disclaimer:**
-   - XGC's Bots are provided "as is" without any warranties, expressed or implied.
-   - XGC is not responsible for any damages or losses resulting from the use of XGC's Bots.
+## 10. Contact:
+- For support or inquiries, contact Xieon (Dave) on Discord at <@745733120510394466> or join the official XGC's Bots server at [XGC Discord Server](#).
 
-**10. Contact:**
-   - For support or inquiries, contact Xieon (Dave) on Discord at <@745733120510394466> or join the official XGC's Bots server at [XGC Discord Server](https://discord.gg/xieon).
+## 11. Agreement:
+- By using XGC's Bots in the context of Raid Battles and Trade bots, you agree to these terms.
 
-**11. Agreement:**
-   - By using XGC's Bots in the context of Raid Battles and Trade bots, you agree to these terms.
+## Age Requirement:
+- While Pokémon may be a children's game, we are not a "children's" server or community. As we operate out of the United States, you must be at least 13 years old to JOIN our Discord server.
+- Users who are found to be under the age of 13 and in our Discord, OR users who have been found to have joined the server or used the bots when they were under 13, will result in a permanent lifetime ban from XGC.
+- You need to be at least 13 to subscribe to the server, subscribe to XGC's Twitch @ [twitch.tv/xieon](https://twitch.tv/xieon), or YouTube @ [youtube.com/xieongaming](https://youtube.com/xieongaming).
+- Additionally, XGC offers material that is only suitable for audiences 18+. This content is collectively known as "XGC After Dark" and is the umbrella term for all 18+ content, NSFW content, sexualized content, controversial content, and topics such as mental health, self-harm, suicide, drugs, sexual abuse, and many other topics that some users may find to be triggering.
 
-
-**Sportsmanlike Conduct:**
->   - XGC does not condone the use of unfair sportsmanlike conduct. We explicitly discourage the use of any Pokémon obtained from our bots, specifically trade bots, in official tournaments or in environments where opponents are not aware of and do not have access to the same conditions.
-**Official Position on The Pokémon Company's Practices:**
->   - XGC strongly disagrees with The Pokémon Company's current practices. We believe that anyone with the entry fee should be able to enter a tournament and compete on equal grounds. This principle is no different from other competitive gaming scenes, such as Call of Duty or Halo. In our opinion, The Pokémon Company should consider creating a Pokémon-style Showdown App for generating Pokémon exclusively for tournament use. These Pokémon would be deleted afterward, or other similar possibilities could be explored. This would ensure a level playing field for all participants, similar to other competitive gaming environments. However, this position does not negate the fact that using Pokémon obtained through trade bots, including ours, is a violation of tournament rules, and we do not support such practices. We advocate for boycotting the Pokémon Pro Scene and encourage efforts to bring about a Pokémon Showdown-like Pro Scene.
-
-
-**Note:** These rules are effective immediately and are subject to change. It is the user's responsibility to review them periodically.
-
-Thank you for using XGC's Bots!
-
-
-...
-
-**XGC's Social Media:**
-   - Discord Server: [XGC Discord Server](https://discord.gg/xieon)
-   - [Twitter](https://twitter.com/xieon)
-   - [Instagram](https://www.instagram.com/xieonsgamingcorner/)
-   - [YouTube](https://www.youtube.com/channel/UCa2tx2V6Izhq-XA6uPyKoEw)
-
-...
+**Thank you for using XGC's Bots!**
