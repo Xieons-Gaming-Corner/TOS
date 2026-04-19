@@ -1,93 +1,207 @@
+# XGC Bot Terms of Service (XGC’s Bots, “Sus Spore”, “Aizen Suske”)
 
-- **Sysbot:** Base program used to manipulate and control Nintendo 3DS systems.
-- **"Sus Spore":** Bot on platforms such as Twitch or Discord named "Sus Spore" or the IGN for the Bot's Character In-Game.
-- **"Aizen Suske":** Same as "Sus Spore."
-- **XGC's Bots:** Bots owned and operated by Xieon'
-These rules are a subset of the entire rule set for XGC, specifically focused on Raid Battles and Trade bots. Other XGC rules remain in effect.
+_Last updated: 04/19/2026_
 
-## Incorporated Documents:
-**## Rules Implemented with Aizen's Raids & Discord
-[Implemented Rules for Raids with Aizen Suske Raid Bot](PLACEHOLDER)
-
-
-### 🚪 Joining a Lobby, and then Backing Out
-* I enforce this rule because I make a clear warning and give people the opportunity to DM me if it was a mistake. I have automatic alerts set up for this, but I still manually approve the ban. Usually, I just suspend the user to get their attention.
-* Sometimes it causes the bot to play the entire raid by itself. The Umbreon is built like a tank with leftovers; it can take 10 minutes to go through a raid. (I haven't actually measured the maximum time, but I will find it or do a Ditto raid with 3 other people and not attack to time it.) This wastes my time, other players' time, costs money for electricity, and the Nintendo Switch Online (NSO) subscription, which is being wasted, as well as the Switch, computer, router/internet bill, and bandwidth throttling.
-
-### 🚫 Trainer/Pokemon Nicknames
-* Nicknames that are advertising names, especially to websites that sell Pokemon, will get you banned. Any inappropriate names, remember it's still a game geared at kids, will also be banned.
-* If it's from a website that sells Pokemon, I will usually just do it to get the player's attention and let them know, but if it continues, I'll ban them.
-
-### 📝 In-Game Name (IGN)
-* Your in-game name needs to be in the server name or part of it - something that makes you easy to find. It's not a hard ask if you're using the bots - and 99.9% of the time it doesn’t matter. However, if we need to find you in Discord (since right now my bots only run in Discord and are not on Twitch), and it takes us too long, we'll just ban you to get your attention.
+By using any of XGC’s Bots (“XGC’s Bots”), including but not limited to **Sus Spore** and **Aizen Suske**, you agree to the following terms. These rules are a subset of the full Xieon’s Gaming Corner (XGC) rules and are focused on Raid Battles and Trade bots. All other XGC rules remain in effect.
 
 ---
 
-### 🤖 Bot Enthusiast Role
-* If you have used our bots before, either in our server or another server, or you plan on using our bots in our server or another server, make sure you claim the **Bot Enthusiast** role from the channel/role selection.
-**
+## Definitions
 
-## 1. User Conduct:
-- Adhere to Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
-- Do not engage in activities violating local, state, national, or international laws.
+- **Sysbot**  
+  Base program used to manipulate and control Nintendo 3DS systems.
 
-## 2. Proper Usage:
-- Use XGC's Bots only for intended purposes related to Raid Battles and Trade bots.
-- Do not exploit, hack, or disrupt XGC's Bots or the community.
+- **“Sus Spore”**  
+  A bot operating on platforms such as Twitch and Discord under the name “Sus Spore”, and/or the in‑game name (IGN) used by the bot’s character.
 
-## 3. Privacy:
+- **“Aizen Suske”**  
+  Same concept as “Sus Spore” above, including any variant of the Aizen Suske bot used for raids or trades.
+
+- **“XGC’s Bots”**  
+  Any and all bots owned and operated by Xieon / Xieon’s Gaming Corner, including but not limited to Sus Spore and Aizen Suske.
+
+These bot‑specific terms are incorporated into the main XGC server rules.
+
+---
+
+## Incorporated Documents
+
+- **XGC Server Rules** – All standard XGC rules apply.
+- **Discord Policies** – All users must follow:
+  - [Discord Terms of Service](https://discord.com/terms)
+  - [Discord Community Guidelines](https://discord.com/guidelines)
+
+---
+
+## Aizen Raid Rules (Discord + In‑Game)
+
+> These rules apply whenever you join raids hosted via **Aizen Suske** or related XGC raid bots.
+
+### 1. Joining a Lobby, then Backing Out
+
+- Joining an Aizen-hosted raid lobby and then backing out without a valid reason is considered a violation.
+- I enforce this rule **because it is clearly warned in advance**, and players are asked to DM me if it was a genuine mistake.
+- I use automatic alerts to flag this behavior but still review and approve punishments manually. Most first offenses result in a temporary suspension to get the user’s attention.
+- Backing out can cause the bot to run the raid essentially solo. The Umbreon I use is built like a tank with Leftovers and can take up to ~10 minutes per raid, wasting:
+  - My time and other players’ time,
+  - Electricity,
+  - Nintendo Switch Online subscription time,
+  - Wear on the Switch, PC, and network bandwidth.
+
+**Possible punishments:**  
+Suspensions up to 48 hours, and in repeated cases, bans from the bots and/or server.
+
+### 2. Trainer / Pokémon Nicknames
+
+- Nicknames that advertise websites or services (especially sites selling Pokémon) are not allowed.
+- Inappropriate or offensive nicknames (remember: Pokémon is still geared toward kids) will get you banned from using the bots.
+- If the nickname looks like it came from a .com Pokémon seller, I will usually warn or suspend first to get the player’s attention. Repeated behavior will result in a permanent ban.
+
+### 3. In‑Game Name (IGN) Requirements
+
+- Your **IGN needs to be in your Discord display name or server nickname**, or otherwise clearly linked to your Discord identity.
+- 99.9% of the time, it doesn’t matter – but when something goes wrong and we need to find you quickly, this is critical.
+- If we cannot match your IGN to your Discord account in a reasonable time, you may be banned or suspended primarily as a way to get your attention and resolve the issue.
+
+---
+
+## Bot Enthusiast Role
+
+- If you have used, are using, or plan to use any of XGC’s Bots (in XGC or another server), please claim the **Bot Enthusiast** role in the designated channel.
+- This helps us identify active bot users for support, announcements, and troubleshooting.
+
+---
+
+## 1. User Conduct
+
+- You must follow Discord’s [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines) at all times.
+- Do not engage in or promote any illegal activity under local, state, national, or international law.
+- Harassment, hate speech, or targeted abuse is not tolerated.
+
+---
+
+## 2. Proper Usage
+
+- Use XGC’s Bots only for their intended purposes (e.g., Raid Battles, Trade bots, and related community features).
+- Do not:
+  - Exploit or attempt to exploit bugs.
+  - Hack, reverse engineer, or interfere with the operation of XGC’s Bots.
+  - Attempt to disrupt raids, trades, or other users’ experience.
+
+---
+
+## 3. Privacy
+
 - Respect the privacy of other users.
-- Do not share personal information without explicit consent.
+- Do not share personal or private information about yourself or others without clear permission.
+- XGC will not intentionally log or sell your personal information; any logs are used for moderation, security, and service quality.
 
-## 4. Content:
-- Users are responsible for the content generated using XGC's Bots.
-- Do not share inappropriate, offensive, or illegal content.
+---
 
-## 5. Moderation:
-- XGC reserves the right to moderate, suspend, or ban users for violations.
-- XGC Staff is not obligated to reveal detection or banning methods.
+## 4. Content
 
-## 6. Appeals Process:
-- Users may escalate appeals within the XGC Staff.
-- XGC Staff's word is final in the moment.
+- You are responsible for any content (messages, names, nicknames, etc.) generated when using XGC’s Bots.
+- Do not use the bots to share content that is:
+  - Inappropriate, sexually explicit, or excessively violent.
+  - Offensive, hateful, or discriminatory.
+  - Illegal (including, but not limited to, piracy or distribution of prohibited content).
 
-## 7. Raids:
-- XGC protects users during raids using seed injection with naturally occurring seeds in the game.
-### Specific Rules for Raids:
-1. Backing out of a Raid Lobby after joining is a violation; punishments may include suspensions up to 48 hours.
-2. Intentional trolling or throwing a raid results in a ban.
-3. Using Pokémon with .com or advertising nicknames results in a permanent ban.
+---
 
-## 8. Changes to XGC's Bots or TOS:
-- XGC reserves the right to modify or discontinue XGC's Bots or these terms at any time.
+## 5. Moderation & Enforcement
 
-## 9. Disclaimer:
-- XGC's Bots are provided "as is" without warranties, expressed or implied.
-- XGC is not responsible for any damages or losses resulting from the use of XGC's Bots.
+- XGC reserves the right to:
+  - Warn, mute, suspend, or ban users from the bots and/or server.
+  - Remove access to specific features (e.g., raids, trades) at any time.
+- XGC Staff is **not required** to reveal internal detection methods, filters, or specific evidence in every case.
 
-## 10. Contact:
-- For support or inquiries, contact Xieon (Dave) on Discord at <@745733120510394466> or join the official XGC Discord server.
+---
 
-## 11. Agreement:
-- By using XGC's Bots, you agree to these terms.
+## 6. Appeals
 
-## Age Requirement:
-- You must be at least 13 years old to join our Discord server.
-- Users under 13 will be permanently banned from XGC.
-- XGC After Dark content is suitable only for audiences 18+.
+- Users may appeal moderation actions by contacting XGC Staff through the designated channels or DMs.
+- Appeals will be handled case‑by‑case.
+- XGC Staff decisions are final in the moment; repeated arguing or harassment about a resolved case can lead to further action.
 
-## Sportsmanship / Fair Play / XGC & TPC Tournaments:
-### Participation in Official Pokémon Company Tournaments:
-- We discourage and do not endorse the use of any of our Pokémon in official TPC tournaments.
-### Our Stance on TPC Tournaments:
-- XGC does not support or condone the use of our Pokémon in TPC tournaments due to fundamental disagreements with their practices.
-### Respecting Tournament Rules:
-- Adhering to tournament rules is crucial. Cheating undermines competitive integrity.
-### Voicing Displeasure Responsibly:
-- Advocate for change through feedback submissions, community discussions, and social media.
-### Use of Third-Party Devices in XGC Official Events:
-- Pokémon obtained through third-party devices are allowed in XGC official events, ensuring an even playing field.
+---
 
-## **Thank you for understanding our stance on TPC tournaments and for supporting our commitment to fair play and advocacy within the Pokémon community.**
+## 7. Raid‑Specific Rules (Summary)
 
-**Thank you for using XGC's Bots & being a member of Xieon's Gaming Corner Community <3**
+These raid rules summarize and reinforce the earlier Aizen sections:
+
+1. **Backing out of a lobby** after joining an Aizen raid without valid reason is a violation and may result in suspensions up to 48 hours.
+2. **Intentionally trolling or throwing a raid** (e.g., clearly sabotaging the team) can result in a ban.
+3. **Using Pokémon with .com or advertising nicknames** can result in a permanent ban from the bots and/or server.
+
+XGC protects raid users by using only **naturally occurring seeds** for seed injection within the game’s mechanics.
+
+---
+
+## 8. Changes to XGC’s Bots or Terms
+
+- XGC may update, modify, or discontinue any of XGC’s Bots at any time.
+- These Terms of Service may be updated periodically. Continued use of the bots after changes take effect constitutes acceptance of the new terms.
+
+---
+
+## 9. Disclaimer
+
+- XGC’s Bots are provided **“as is”**, without any warranties or guarantees (express or implied).
+- XGC is not liable for:
+  - Loss of data,
+  - In‑game penalties or bans issued by game publishers,
+  - Network issues,
+  - Any other damages or losses arising from use or inability to use the bots.
+
+---
+
+## 10. Contact
+
+- Primary contact: **Xieon (Dave)** on Discord: `<@745733120510394466>`
+- You can also join the official **XGC Discord server** for support and updates.
+
+---
+
+## 11. Age Requirement
+
+- You must be **at least 13 years old** to join the XGC Discord server and use XGC’s Bots, in line with Discord’s minimum age requirements. [web:301][web:312]
+- Users verified or discovered to be under 13 will be permanently banned from XGC and its bots.
+- **XGC After Dark** content is restricted to users **18+**.
+
+---
+
+## 12. Sportsmanship, Fair Play, and TPC Tournaments
+
+### Participation in Official Pokémon Company (TPC) Tournaments
+
+- XGC **discourages** and does **not endorse** the use of any Pokémon obtained via XGC’s Bots in official TPC tournaments.
+
+### XGC’s Stance on TPC Tournaments
+
+- XGC does not support or condone using our Pokémon in TPC tournaments due to disagreements with certain TPC policies and practices.
+- While our events may allow third‑party tools, we expect users to comply with TPC’s rules in their events.
+
+### Respecting Tournament Rules
+
+- Following official tournament rules is crucial to fair competition.
+- Cheating or using unauthorized Pokémon in official events undermines competitive integrity.
+
+### Voicing Displeasure Responsibly
+
+- If you disagree with TPC policies, we encourage:
+  - Submitting feedback through official TPC channels,
+  - Participating in community discussions,
+  - Using social media to advocate for change respectfully.
+
+### Third‑Party Devices in XGC Events
+
+- Pokémon obtained through third‑party devices may be allowed in **XGC’s own events**, to keep an even playing field within our community.
+- This allowance **does not extend** to official TPC events, which you participate in at your own risk.
+
+---
+
+## 13. Agreement
+
+By using XGC’s Bots (including Sus Spore and Aizen Suske) or participating in XGC-hosted events, you acknowledge that you have read, understood, and agree to these Terms of Service.
+
+**Thank you for using XGC’s Bots and for being a part of Xieon’s Gaming Corner. <3**
