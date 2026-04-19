@@ -1,11 +1,27 @@
-## No Doxxing Discussion
-Any mention of doxxing, including warnings or threats of potential doxxing, is strictly prohibited. Bringing up this topic in any form will result in an immediate ban and permanent mute without warning.
+## No Doxxing, Ever
 
-## Respect Real-World Boundaries
-Insults or discussions that transition from the internet to real-life scenarios are not tolerated. This includes but is not limited to threats, personal attacks, or attempts to obtain personal information. Violating this rule will lead to an instant ban from the chat.
+Any mention of doxxing (sharing or threatening to share someone’s personal information) is strictly prohibited. This includes “warnings”, jokes, hypotheticals, or indirect threats. Violation of this rule will result in an immediate ban and a permanent mute from all XGC spaces.
 
-## Focus on Positive Interaction
-Let's keep the chat a friendly and supportive environment for everyone. Engage in respectful discussions, offer constructive feedback, and spread positivity throughout the community.
+## Respect Real‑World Boundaries
 
-## Report Violations
-If you encounter any behavior that violates these rules, please report it immediately to the moderators. Together, we can maintain a safe and enjoyable space for all members of the community.
+Harassment that crosses from online into real‑life context is not tolerated. This includes, but is not limited to:
+
+- Threats or intimidation about real‑world harm  
+- Personal attacks targeting someone’s identity, family, work, or location  
+- Attempts to obtain, share, or hint at personal information (doxxing behavior)
+
+Any such behavior can lead to an instant and permanent ban.
+
+## Keep It Positive
+
+This community exists for games, raids, and hanging out—not drama. Keep discussions respectful, avoid personal attacks, and aim for constructive feedback. If you’re frustrated, address the issue, not the person.
+
+## Report Problems Immediately
+
+If you see anything that looks like doxxing, harassment, or real‑life threats:
+
+- Stop engaging with the person.  
+- Screenshot or grab a message link if possible.  
+- Report it to XGC Staff or moderators right away.
+
+We take these issues seriously, and quick reports help us keep the server safe for everyone.
