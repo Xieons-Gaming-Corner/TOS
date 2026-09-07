@@ -1,6 +1,7 @@
 # XGC Bot Terms of Service
 
-**Last updated:** April 19, 2026
+~~**Last updated:** April 19, 2026~~
+**Last updated**: September 9th, 2026
 
 These Bot Terms of Service (“Terms”) govern use of bots operated by **Xieon’s Gaming Corner** (“XGC,” “we,” “us,” or “our”), including **Sus Spore**, **Aizen Suske**, and any successor, variant, raid, trade, Discord, Twitch, or community bot operated by XGC (collectively, “XGC Bots”).
 
